@@ -1,0 +1,11 @@
+input{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+fieldset{
+    background-image: url(https://images.unsplash.com/photo-1587623270769-9826aa80be70?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: 1400px 600px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+}
+

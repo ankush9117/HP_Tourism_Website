@@ -1,0 +1,31 @@
+.d h1{
+        
+    background: linear-gradient(to right,rgb(9, 199, 252), #fff 35%, #cc37a9);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 3s linear infinite;
+    font-size: 60px;
+}
+
+@keyframes gradient{
+    0%{background-position: 0% 75%;}
+    50%{background-position: 100% 50%;}  
+   100%{background-position: 0% 70%;}
+}
+
+.c {
+        
+    background: linear-gradient(to right,rgb(9, 199, 252), #fff 35%, #cc37a9);
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 3s linear infinite;
+    font-size: 60px;
+}
+
+@keyframes gradient{
+    0%{background-position: 0% 75%;}
+    50%{background-position: 100% 50%;}  
+   100%{background-position: 0% 70%;}
+}
